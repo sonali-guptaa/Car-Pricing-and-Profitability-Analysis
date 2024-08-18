@@ -1,2 +1,2 @@
-# Impact_of_car_features_on_pricing_and_profitability
+# Car Pricing and Profitability Analysis
 This project focuses on exploring the impact of various car features on pricing and profitability within the automotive industry. By conducting a thorough analysis of extensive datasets, we aim to uncover insights that can inform strategic decisions related to product development, pricing strategies, and overall business profitability. I employed robust data cleaning techniques to ensure data accuracy and reliability and implemented regression analysis. I also developed an interactive dashboard in Excel and communicated findings through data visualizations, such as charts and graphs, to highlight key insights.
